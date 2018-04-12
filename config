@@ -7,8 +7,8 @@ allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-#font = Monospace 12
-font = PragmataPro 13
+font = Monospace 12
+# font = PragmataPro 13
 scrollback_lines = 10000
 search_wrap = true
 #icon_name = terminal
@@ -36,10 +36,14 @@ filter_unmatched_urls = true
 [colors]
 
 # special
-foreground      = #f8f8f2
-foreground_bold = #f8f8f2
-cursor          = #f8f8f2
-background      = #282a36
+# foreground      = #f8f8f2
+foreground = #abb2bf
+# foreground_bold = #f8f8f2
+foreground_bold = #ccd4e3
+# cursor          = #f8f8f2
+cursor          = #38394c
+# background      = #282a36
+background      = #282c34
 
 # black
 color0  = #000000
