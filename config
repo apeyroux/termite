@@ -37,7 +37,8 @@ filter_unmatched_urls = true
 
 # special
 # foreground      = #f8f8f2
-foreground = #abb2bf
+# foreground = #abb2bf
+foreground = #F4F6F6
 # foreground_bold = #f8f8f2
 foreground_bold = #ccd4e3
 # cursor          = #f8f8f2
